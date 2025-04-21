@@ -74,6 +74,16 @@ jupyter notebook
 
 ---
 
+# 🧠 Azure Services Used
+
+| Service Name                  | Description                                                        |
+|------------------------------|--------------------------------------------------------------------|
+| Azure Speech-to-Text         | Converts spoken language (audio) into written text. Used for transcribing doctor-patient conversations. |
+| Azure OpenAI Service         | Provides access to advanced language models (like GPT) for generating clinical notes, summaries, and more. |
+| Azure Text Analytics for Health | Extracts structured medical information (diagnoses, medications, symptoms) from unstructured clinical text. Used for summarizing health records. |
+
+---
+
 # ❓ What Can I Do With This?
 - Test healthcare AI tools with your own data
 - Explore how AI can help doctors and patients
@@ -85,6 +95,7 @@ jupyter notebook
 **No advanced coding required. Just follow the steps above!**
 
 If you get stuck, check the README files in each folder for more help.
+
 
 
 <img width="1427" alt="Screenshot 2025-04-21 at 11 10 40 AM" src="https://github.com/user-attachments/assets/0a7226f6-9a02-41c0-b5f1-8c7987976353" />
