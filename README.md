@@ -85,3 +85,7 @@ jupyter notebook
 **No advanced coding required. Just follow the steps above!**
 
 If you get stuck, check the README files in each folder for more help.
+
+
+<img width="1427" alt="Screenshot 2025-04-21 at 11 10 40 AM" src="https://github.com/user-attachments/assets/0a7226f6-9a02-41c0-b5f1-8c7987976353" />
+<img width="1458" alt="Screenshot 2025-04-21 at 11 11 06 AM" src="https://github.com/user-attachments/assets/e8eee8a5-29a2-48a2-a523-7346bcee23a6" />
