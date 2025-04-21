@@ -1,0 +1,6 @@
+azure-cognitiveservices-speech
+openai
+azure-ai-textanalytics
+pandas
+scikit-learn
+streamlit
